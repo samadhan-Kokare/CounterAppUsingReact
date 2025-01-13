@@ -1,0 +1,26 @@
+.App {
+  padding: 10px;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: grey;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
+}
+#start {
+  background-color: rgb(184, 222, 184);
+}
+#stop {
+  background-color: rgb(97, 233, 233);
+}
+#reset {
+  background-color: rgb(198, 120, 64);
+}
+#counters {
+  margin: 10px 50px 10px 50px;
+  padding: 20px;
+  background-color: bisque;
+  border-radius: 5px;
+}
+span {
+  font-weight: bold;
+}
